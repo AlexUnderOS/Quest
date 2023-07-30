@@ -4,5 +4,5 @@ btn.addEventListener("click", myFunc);
 
 function myFunc(){
     audio.play();
-    
+    alert("button was clicked");
 }
